@@ -14,14 +14,14 @@ public class Enemy : MonoBehaviour
 	{
 		health -= damage;
 
-		if (health <= 50)
-		{
-			GetComponent<Animator>().SetBool("IsEnraged", true);
-		}
-		if (health <= 25)
-		{
-			GetComponent<Animator>().SetBool("Attack1", true);
-		}
+		//if (health <= 50)
+		//{
+		//	GetComponent<Animator>().SetBool("IsEnraged", true);
+		//}
+		//if (health <= 25)
+	//	{
+		//	GetComponent<Animator>().SetBool("Attack1", true);
+		//}
 
 		if (health <= 0)
 		{
