@@ -1,0 +1,3708 @@
+fileFormatVersion: 2
+guid: 3cc2236265859a04bb6dcf9424f531ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6145745347010782143
+    second: UndeadEmpire2DAssets_1 (1)_0
+  - first:
+      213: -8714320190309496808
+    second: UndeadEmpire2DAssets_1 (1)_1
+  - first:
+      213: -1814214427797616949
+    second: UndeadEmpire2DAssets_1 (1)_2
+  - first:
+      213: 4832957721547027430
+    second: UndeadEmpire2DAssets_1 (1)_3
+  - first:
+      213: -6563277617891028989
+    second: UndeadEmpire2DAssets_1 (1)_4
+  - first:
+      213: 8833645359319585858
+    second: UndeadEmpire2DAssets_1 (1)_5
+  - first:
+      213: 8310849419932635456
+    second: UndeadEmpire2DAssets_1 (1)_6
+  - first:
+      213: 4201011978330232070
+    second: UndeadEmpire2DAssets_1 (1)_7
+  - first:
+      213: -502757615780169726
+    second: UndeadEmpire2DAssets_1 (1)_8
+  - first:
+      213: -5173824728935760186
+    second: UndeadEmpire2DAssets_1 (1)_9
+  - first:
+      213: 4453644642726299776
+    second: UndeadEmpire2DAssets_1 (1)_10
+  - first:
+      213: -7022304445210887463
+    second: UndeadEmpire2DAssets_1 (1)_11
+  - first:
+      213: -5206548331015963840
+    second: UndeadEmpire2DAssets_1 (1)_12
+  - first:
+      213: 8647661719354110378
+    second: UndeadEmpire2DAssets_1 (1)_13
+  - first:
+      213: 8482631934775837880
+    second: UndeadEmpire2DAssets_1 (1)_14
+  - first:
+      213: -1590806110619060708
+    second: UndeadEmpire2DAssets_1 (1)_15
+  - first:
+      213: -2981358803057128572
+    second: UndeadEmpire2DAssets_1 (1)_16
+  - first:
+      213: 5417693106748139760
+    second: UndeadEmpire2DAssets_1 (1)_17
+  - first:
+      213: 6907832697736965891
+    second: UndeadEmpire2DAssets_1 (1)_18
+  - first:
+      213: -7944774359642592475
+    second: UndeadEmpire2DAssets_1 (1)_19
+  - first:
+      213: 2165922357007788545
+    second: UndeadEmpire2DAssets_1 (1)_20
+  - first:
+      213: -7348435691848890351
+    second: UndeadEmpire2DAssets_1 (1)_21
+  - first:
+      213: -8155350297506660520
+    second: UndeadEmpire2DAssets_1 (1)_22
+  - first:
+      213: -4952437314898457933
+    second: UndeadEmpire2DAssets_1 (1)_23
+  - first:
+      213: 6664164578455365912
+    second: UndeadEmpire2DAssets_1 (1)_24
+  - first:
+      213: 5289399789753041527
+    second: UndeadEmpire2DAssets_1 (1)_25
+  - first:
+      213: -566528496986308035
+    second: UndeadEmpire2DAssets_1 (1)_26
+  - first:
+      213: 7564276543198277747
+    second: UndeadEmpire2DAssets_1 (1)_27
+  - first:
+      213: -6895288022869751427
+    second: UndeadEmpire2DAssets_1 (1)_28
+  - first:
+      213: 4223582956048879438
+    second: UndeadEmpire2DAssets_1 (1)_29
+  - first:
+      213: -1122621407254408438
+    second: UndeadEmpire2DAssets_1 (1)_30
+  - first:
+      213: 122180985334691501
+    second: UndeadEmpire2DAssets_1 (1)_31
+  - first:
+      213: -5324460206282618390
+    second: UndeadEmpire2DAssets_1 (1)_32
+  - first:
+      213: -1596805099993105747
+    second: UndeadEmpire2DAssets_1 (1)_33
+  - first:
+      213: 2216786176837113700
+    second: UndeadEmpire2DAssets_1 (1)_34
+  - first:
+      213: 6900665391584784622
+    second: UndeadEmpire2DAssets_1 (1)_35
+  - first:
+      213: -449205835019050195
+    second: UndeadEmpire2DAssets_1 (1)_36
+  - first:
+      213: 8116551201914185402
+    second: UndeadEmpire2DAssets_1 (1)_37
+  - first:
+      213: -8095645527148108712
+    second: UndeadEmpire2DAssets_1 (1)_38
+  - first:
+      213: -7434914940414555335
+    second: UndeadEmpire2DAssets_1 (1)_39
+  - first:
+      213: 6587670734300544649
+    second: UndeadEmpire2DAssets_1 (1)_40
+  - first:
+      213: 7445286148668035032
+    second: UndeadEmpire2DAssets_1 (1)_41
+  - first:
+      213: -576816334894819208
+    second: UndeadEmpire2DAssets_1 (1)_42
+  - first:
+      213: 3142031496719238135
+    second: UndeadEmpire2DAssets_1 (1)_43
+  - first:
+      213: 7685996905567633470
+    second: UndeadEmpire2DAssets_1 (1)_44
+  - first:
+      213: 1502721023111640195
+    second: UndeadEmpire2DAssets_1 (1)_45
+  - first:
+      213: -265281560942637860
+    second: UndeadEmpire2DAssets_1 (1)_46
+  - first:
+      213: -5132728373130238536
+    second: UndeadEmpire2DAssets_1 (1)_47
+  - first:
+      213: 6125604363319287101
+    second: UndeadEmpire2DAssets_1 (1)_48
+  - first:
+      213: 1524567401255013412
+    second: UndeadEmpire2DAssets_1 (1)_49
+  - first:
+      213: -8336320430303447829
+    second: UndeadEmpire2DAssets_1 (1)_50
+  - first:
+      213: 163551752027053842
+    second: UndeadEmpire2DAssets_1 (1)_51
+  - first:
+      213: 1505164297712013003
+    second: UndeadEmpire2DAssets_1 (1)_52
+  - first:
+      213: -4684963140413662618
+    second: UndeadEmpire2DAssets_1 (1)_53
+  - first:
+      213: -8942184110344794650
+    second: UndeadEmpire2DAssets_1 (1)_54
+  - first:
+      213: 8576309561557713299
+    second: UndeadEmpire2DAssets_1 (1)_55
+  - first:
+      213: 8678226440992629589
+    second: UndeadEmpire2DAssets_1 (1)_56
+  - first:
+      213: -8287603875387530661
+    second: UndeadEmpire2DAssets_1 (1)_57
+  - first:
+      213: 1006841160442707051
+    second: UndeadEmpire2DAssets_1 (1)_58
+  - first:
+      213: 1855436468009784878
+    second: UndeadEmpire2DAssets_1 (1)_59
+  - first:
+      213: -2296900698141507942
+    second: UndeadEmpire2DAssets_1 (1)_60
+  - first:
+      213: 3118964638991285300
+    second: UndeadEmpire2DAssets_1 (1)_61
+  - first:
+      213: 9001414164073991699
+    second: UndeadEmpire2DAssets_1 (1)_62
+  - first:
+      213: 8276319567217138082
+    second: UndeadEmpire2DAssets_1 (1)_63
+  - first:
+      213: -2826190440658686257
+    second: UndeadEmpire2DAssets_1 (1)_64
+  - first:
+      213: -8717062605929573608
+    second: UndeadEmpire2DAssets_1 (1)_65
+  - first:
+      213: -115291167606490575
+    second: UndeadEmpire2DAssets_1 (1)_66
+  - first:
+      213: -2084477104213647762
+    second: UndeadEmpire2DAssets_1 (1)_67
+  - first:
+      213: 8075380745291767919
+    second: UndeadEmpire2DAssets_1 (1)_68
+  - first:
+      213: -5723678433898456881
+    second: UndeadEmpire2DAssets_1 (1)_69
+  - first:
+      213: 523923398796354027
+    second: UndeadEmpire2DAssets_1 (1)_70
+  - first:
+      213: -3840373842036849228
+    second: UndeadEmpire2DAssets_1 (1)_71
+  - first:
+      213: 5905374214848476676
+    second: UndeadEmpire2DAssets_1 (1)_72
+  - first:
+      213: -1548847263790590326
+    second: UndeadEmpire2DAssets_1 (1)_73
+  - first:
+      213: -5058908659428649558
+    second: UndeadEmpire2DAssets_1 (1)_74
+  - first:
+      213: 8724081195694436288
+    second: UndeadEmpire2DAssets_1 (1)_75
+  - first:
+      213: 3616555667038279726
+    second: UndeadEmpire2DAssets_1 (1)_76
+  - first:
+      213: -6336187188547452277
+    second: UndeadEmpire2DAssets_1 (1)_77
+  - first:
+      213: 6438644564849939168
+    second: UndeadEmpire2DAssets_1 (1)_78
+  - first:
+      213: 2667249861830270146
+    second: UndeadEmpire2DAssets_1 (1)_79
+  - first:
+      213: 4566604519240037245
+    second: UndeadEmpire2DAssets_1 (1)_80
+  - first:
+      213: -4634867612794171535
+    second: UndeadEmpire2DAssets_1 (1)_81
+  - first:
+      213: 3723728686086138991
+    second: UndeadEmpire2DAssets_1 (1)_82
+  - first:
+      213: 1864954230461831321
+    second: UndeadEmpire2DAssets_1 (1)_83
+  - first:
+      213: 8921238428090655321
+    second: UndeadEmpire2DAssets_1 (1)_84
+  - first:
+      213: 1534371776994889327
+    second: UndeadEmpire2DAssets_1 (1)_85
+  - first:
+      213: -8583104616950323993
+    second: UndeadEmpire2DAssets_1 (1)_86
+  - first:
+      213: 4654904430995393861
+    second: UndeadEmpire2DAssets_1 (1)_87
+  - first:
+      213: 5331975501853263741
+    second: UndeadEmpire2DAssets_1 (1)_88
+  - first:
+      213: -17222759998690736
+    second: UndeadEmpire2DAssets_1 (1)_89
+  - first:
+      213: 889759036040601655
+    second: UndeadEmpire2DAssets_1 (1)_90
+  - first:
+      213: -4616185012226882206
+    second: UndeadEmpire2DAssets_1 (1)_91
+  - first:
+      213: -5668889597428676249
+    second: UndeadEmpire2DAssets_1 (1)_92
+  - first:
+      213: 1106944314021924113
+    second: UndeadEmpire2DAssets_1 (1)_93
+  - first:
+      213: 4769077508188234152
+    second: UndeadEmpire2DAssets_1 (1)_94
+  - first:
+      213: -6379014859905771071
+    second: UndeadEmpire2DAssets_1 (1)_95
+  - first:
+      213: -8685264741342420206
+    second: UndeadEmpire2DAssets_1 (1)_96
+  - first:
+      213: -1690963423600716977
+    second: UndeadEmpire2DAssets_1 (1)_97
+  - first:
+      213: 915617363331857198
+    second: UndeadEmpire2DAssets_1 (1)_98
+  - first:
+      213: 6640240205690916272
+    second: UndeadEmpire2DAssets_1 (1)_99
+  - first:
+      213: 4583437927392523934
+    second: UndeadEmpire2DAssets_1 (1)_100
+  - first:
+      213: -7259644059746121979
+    second: UndeadEmpire2DAssets_1 (1)_101
+  - first:
+      213: -484174953176175166
+    second: UndeadEmpire2DAssets_1 (1)_102
+  - first:
+      213: -8450202346419719903
+    second: UndeadEmpire2DAssets_1 (1)_103
+  - first:
+      213: 5066608723070561930
+    second: UndeadEmpire2DAssets_1 (1)_104
+  - first:
+      213: -3997615223028430825
+    second: UndeadEmpire2DAssets_1 (1)_105
+  - first:
+      213: -1733894428976789033
+    second: UndeadEmpire2DAssets_1 (1)_106
+  - first:
+      213: 3187477600658312205
+    second: UndeadEmpire2DAssets_1 (1)_107
+  - first:
+      213: -6389690756327209017
+    second: UndeadEmpire2DAssets_1 (1)_108
+  - first:
+      213: -5819348021878068106
+    second: UndeadEmpire2DAssets_1 (1)_109
+  - first:
+      213: 6549919247839208369
+    second: UndeadEmpire2DAssets_1 (1)_110
+  - first:
+      213: 501853703201568718
+    second: UndeadEmpire2DAssets_1 (1)_111
+  - first:
+      213: -9012516286364999881
+    second: UndeadEmpire2DAssets_1 (1)_112
+  - first:
+      213: -7004088025540345607
+    second: UndeadEmpire2DAssets_1 (1)_113
+  - first:
+      213: -6911113270214138491
+    second: UndeadEmpire2DAssets_1 (1)_114
+  - first:
+      213: 4355758405507014513
+    second: UndeadEmpire2DAssets_1 (1)_115
+  - first:
+      213: 8571638456280495660
+    second: UndeadEmpire2DAssets_1 (1)_116
+  - first:
+      213: 1827029494465010470
+    second: UndeadEmpire2DAssets_1 (1)_117
+  - first:
+      213: 5878340906612512680
+    second: UndeadEmpire2DAssets_1 (1)_118
+  - first:
+      213: 5458929332277252849
+    second: UndeadEmpire2DAssets_1 (1)_119
+  - first:
+      213: -1691473342104954978
+    second: UndeadEmpire2DAssets_1 (1)_120
+  - first:
+      213: -5905647120169510506
+    second: UndeadEmpire2DAssets_1 (1)_121
+  - first:
+      213: 563429290913369585
+    second: UndeadEmpire2DAssets_1 (1)_122
+  - first:
+      213: -1408189860095761646
+    second: UndeadEmpire2DAssets_1 (1)_123
+  - first:
+      213: 6223978136496646791
+    second: UndeadEmpire2DAssets_1 (1)_124
+  - first:
+      213: -336689584922736076
+    second: UndeadEmpire2DAssets_1 (1)_125
+  - first:
+      213: 6366655499279500810
+    second: UndeadEmpire2DAssets_1 (1)_126
+  - first:
+      213: -2584747211616359235
+    second: UndeadEmpire2DAssets_1 (1)_127
+  - first:
+      213: -7803610388769242416
+    second: UndeadEmpire2DAssets_1 (1)_128
+  - first:
+      213: -7836889499429322055
+    second: UndeadEmpire2DAssets_1 (1)_129
+  - first:
+      213: 7036256983455900899
+    second: UndeadEmpire2DAssets_1 (1)_130
+  - first:
+      213: -2880024648372633329
+    second: UndeadEmpire2DAssets_1 (1)_131
+  - first:
+      213: -5620138673819001910
+    second: UndeadEmpire2DAssets_1 (1)_132
+  - first:
+      213: -7954614129380077637
+    second: UndeadEmpire2DAssets_1 (1)_133
+  - first:
+      213: 3901791794644100117
+    second: UndeadEmpire2DAssets_1 (1)_134
+  - first:
+      213: 2840384551787962433
+    second: UndeadEmpire2DAssets_1 (1)_135
+  - first:
+      213: 9078975956359556904
+    second: UndeadEmpire2DAssets_1 (1)_136
+  - first:
+      213: 7688848390366306690
+    second: UndeadEmpire2DAssets_1 (1)_137
+  - first:
+      213: 4637117894140665318
+    second: UndeadEmpire2DAssets_1 (1)_138
+  - first:
+      213: 5361235048686911289
+    second: UndeadEmpire2DAssets_1 (1)_139
+  - first:
+      213: 655654318210571139
+    second: UndeadEmpire2DAssets_1 (1)_140
+  - first:
+      213: 3415831243293888211
+    second: UndeadEmpire2DAssets_1 (1)_141
+  - first:
+      213: -7214835667864514686
+    second: UndeadEmpire2DAssets_1 (1)_142
+  - first:
+      213: 6048890473339654567
+    second: UndeadEmpire2DAssets_1 (1)_143
+  - first:
+      213: 1298515359431127490
+    second: UndeadEmpire2DAssets_1 (1)_144
+  - first:
+      213: -1873495744814257526
+    second: UndeadEmpire2DAssets_1 (1)_145
+  - first:
+      213: -6344439377226132496
+    second: UndeadEmpire2DAssets_1 (1)_146
+  - first:
+      213: -8701613227789944160
+    second: UndeadEmpire2DAssets_1 (1)_147
+  - first:
+      213: -8787082518001440138
+    second: UndeadEmpire2DAssets_1 (1)_148
+  - first:
+      213: 2885386651003243390
+    second: UndeadEmpire2DAssets_1 (1)_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 842
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c996f1b2de5baa0800000000000000
+      internalID: -6145745347010782143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 884
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818869515f3801780800000000000000
+      internalID: -8714320190309496808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 890
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60cbc079d92d6e0800000000000000
+      internalID: -1814214427797616949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 842
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ba4f017d121340800000000000000
+      internalID: 4832957721547027430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 842
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300555fb7cd8ae4a0800000000000000
+      internalID: -6563277617891028989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 842
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449502d6a9679a70800000000000000
+      internalID: 8833645359319585858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 842
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04198d0c381165370800000000000000
+      internalID: 8310849419932635456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 896
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d889e22efc4a30800000000000000
+      internalID: 4201011978330232070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 527
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208fc47bc98d509f0800000000000000
+      internalID: -502757615780169726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 523
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cef6a532d1e238b0800000000000000
+      internalID: -5173824728935760186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 521
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c585c4368ecd30800000000000000
+      internalID: 4453644642726299776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 522
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dafe861053cb8e90800000000000000
+      internalID: -7022304445210887463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 564
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf3efd0ef9eb7b0800000000000000
+      internalID: -5206548331015963840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 521
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa178d7348aa20870800000000000000
+      internalID: 8647661719354110378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 521
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4c2b04dcc58b570800000000000000
+      internalID: 8482631934775837880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 562
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16b70655425ce9e0800000000000000
+      internalID: -1590806110619060708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 523
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bcbcbe6f510a6d0800000000000000
+      internalID: -2981358803057128572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 521
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f82ec92d238f2b40800000000000000
+      internalID: 5417693106748139760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 524
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa0744d3d8ddf50800000000000000
+      internalID: 6907832697736965891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 459
+        width: 48
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b2fd820dd7eb190800000000000000
+      internalID: -7944774359642592475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 458
+        width: 50
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa68c78e6ee0e10800000000000000
+      internalID: 2165922357007788545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 531
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188b840cac150a90800000000000000
+      internalID: -7348435691848890351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 519
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f3d320d1062de80800000000000000
+      internalID: -8155350297506660520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 522
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba86115088654bb0800000000000000
+      internalID: -4952437314898457933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 481
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819a297306edb7c50800000000000000
+      internalID: 6664164578455365912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 491
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77281479519b76940800000000000000
+      internalID: 5289399789753041527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 489
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32cef565594328f0800000000000000
+      internalID: -566528496986308035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 497
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37037245075b9f860800000000000000
+      internalID: 7564276543198277747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 493
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79c7d473140f40a0800000000000000
+      internalID: -6895288022869751427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 493
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f00be225e2d9a30800000000000000
+      internalID: 4223582956048879438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 498
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a031a5b27c5ab60f0800000000000000
+      internalID: -1122621407254408438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 494
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da67e2575f212b100800000000000000
+      internalID: 122180985334691501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 476
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae942df07a7bb16b0800000000000000
+      internalID: -5324460206282618390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 473
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaf067c83207d9e0800000000000000
+      internalID: -1596805099993105747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 471
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675f55684b93ce10800000000000000
+      internalID: 2216786176837113700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 470
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee03e33cc9614cf50800000000000000
+      internalID: 6900665391584784622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 469
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2328ac4ca914c9f0800000000000000
+      internalID: -449205835019050195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 467
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66d579058c3a070800000000000000
+      internalID: 8116551201914185402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 469
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546bde194d76af80800000000000000
+      internalID: -8095645527148108712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 483
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b8859e040e1d890800000000000000
+      internalID: -7434914940414555335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 477
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e783f31ab1c6b50800000000000000
+      internalID: 6587670734300544649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 484
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df8e7e2e48f25760800000000000000
+      internalID: 7445286148668035032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 477
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87893f9799cbef7f0800000000000000
+      internalID: -576816334894819208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 479
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f30a03cffcba9b20800000000000000
+      internalID: 3142031496719238135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 479
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e304c15a6752aaa60800000000000000
+      internalID: 7685996905567633470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 466
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b41b0fccbad410800000000000000
+      internalID: 1502721023111640195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 468
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc8d8a63d7815cf0800000000000000
+      internalID: -265281560942637860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 467
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e00f2db2e4c8b0800000000000000
+      internalID: -5132728373130238536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 468
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d9a3ea6b4820550800000000000000
+      internalID: 6125604363319287101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 466
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c02f359f9582510800000000000000
+      internalID: 1524567401255013412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 463
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be47ee18cb07f4c80800000000000000
+      internalID: -8336320430303447829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 461
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f17f1b37d054200800000000000000
+      internalID: 163551752027053842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 435
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce89bd34fa63e410800000000000000
+      internalID: 1505164297712013003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 398
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a58d588daabfeb0800000000000000
+      internalID: -4684963140413662618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 256
+        width: 321
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed81caedeaf6e380800000000000000
+      internalID: -8942184110344794650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 164
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910f646b1c250770800000000000000
+      internalID: 8576309561557713299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 256
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553a4c708f04f6870800000000000000
+      internalID: 8678226440992629589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 160
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5220685f248cfc80800000000000000
+      internalID: -8287603875387530661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 133
+        width: 192
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cfd6173b409fd00800000000000000
+      internalID: 1006841160442707051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 118
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26570b13a5dfb910800000000000000
+      internalID: 1855436468009784878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 117
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ebdea0cf4cf10e0800000000000000
+      internalID: -2296900698141507942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 27
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c741e60d9c84b20800000000000000
+      internalID: 3118964638991285300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 121
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ecccd9d727bec70800000000000000
+      internalID: 9001414164073991699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 26
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9979bebc46bd270800000000000000
+      internalID: 8276319567217138082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 102
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce2fec94ca57c8d0800000000000000
+      internalID: -2826190440658686257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 118
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8131ab0beb5c60780800000000000000
+      internalID: -8717062605929573608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 117
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a331d3b47666ef0800000000000000
+      internalID: -115291167606490575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 110
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e19e42e137213e0800000000000000
+      internalID: -2084477104213647762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 104
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60252da004811070800000000000000
+      internalID: 8075380745291767919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 103
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81bea2ac86190b0800000000000000
+      internalID: -5723678433898456881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 116
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a5ca2e89554700800000000000000
+      internalID: 523923398796354027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 122
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b501bc765044bac0800000000000000
+      internalID: -3840373842036849228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 8
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4067bc57f8a14f150800000000000000
+      internalID: 5905374214848476676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a861d66ae93618ae0800000000000000
+      internalID: -1548847263790590326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 11
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa59b93a0652bc9b0800000000000000
+      internalID: -5058908659428649558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 116
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf280510a9221970800000000000000
+      internalID: 8724081195694436288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 4
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e281e34c736903230800000000000000
+      internalID: 3616555667038279726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b828f3492575118a0800000000000000
+      internalID: -6336187188547452277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 4
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e251ea4e19aa5950800000000000000
+      internalID: 6438644564849939168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 114
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc5a9d1e99f30520800000000000000
+      internalID: 2667249861830270146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 116
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73fef68d96df5f30800000000000000
+      internalID: 4566604519240037245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fc0767674adafb0800000000000000
+      internalID: -4634867612794171535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca816c2875da330800000000000000
+      internalID: 3723728686086138991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9981a0dddf5a1e910800000000000000
+      internalID: 1864954230461831321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 109
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95268e6651b9ecb70800000000000000
+      internalID: 8921238428090655321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e4a21700f2b4510800000000000000
+      internalID: 1534371776994889327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 115
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e429ac73dfa2e880800000000000000
+      internalID: -8583104616950323993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 109
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4fd0daea899040800000000000000
+      internalID: 4654904430995393861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 115
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778c0b087bfef940800000000000000
+      internalID: 5331975501853263741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 112
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ae934bdffc2cff0800000000000000
+      internalID: -17222759998690736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 116
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e4ee012f095c00800000000000000
+      internalID: 889759036040601655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 81
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650cb0603400ffb0800000000000000
+      internalID: -4616185012226882206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 93
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7694b5a32fe0451b0800000000000000
+      internalID: -5668889597428676249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 105
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d4a6f1df7ac5f00800000000000000
+      internalID: 1106944314021924113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 107
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16dddd9ba2f2240800000000000000
+      internalID: 4769077508188234152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 95
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d06a48cf2977a0800000000000000
+      internalID: -6379014859905771071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 102
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2136f08fbbdb77780800000000000000
+      internalID: -8685264741342420206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d910b9bd7888e0800000000000000
+      internalID: -1690963423600716977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 102
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b339b042de4bc00800000000000000
+      internalID: 915617363331857198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 99
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd497b194fd62c50800000000000000
+      internalID: 6640240205690916272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 98
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96b848c284ab9f30800000000000000
+      internalID: 4583437927392523934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 83
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507ce0fd030904b90800000000000000
+      internalID: -7259644059746121979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 91
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdeac2027dd749f0800000000000000
+      internalID: -484174953176175166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 80
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121fa7dacb9daba80800000000000000
+      internalID: -8450202346419719903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e24822ac5305640800000000000000
+      internalID: 5066608723070561930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 86
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71842ba822e9588c0800000000000000
+      internalID: -3997615223028430825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d94fc21438ffe7e0800000000000000
+      internalID: -1733894428976789033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cc0c46df13c3c20800000000000000
+      internalID: 3187477600658312205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c705847c124357a0800000000000000
+      internalID: -6389690756327209017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 70
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ce59b6ec58d3fa0800000000000000
+      internalID: -5819348021878068106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 57
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b323fa5adcf5ea50800000000000000
+      internalID: 6549919247839208369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 69
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73b8cb841f6f600800000000000000
+      internalID: 501853703201568718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 70
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f9aca103c1de280800000000000000
+      internalID: -9012516286364999881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 71
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0c91ecc0b7cce90800000000000000
+      internalID: -7004088025540345607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585e56ee81bc610a0800000000000000
+      internalID: -6911113270214138491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 63
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fdaa72133c27c30800000000000000
+      internalID: 4355758405507014513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263da1f2c394f670800000000000000
+      internalID: 8571638456280495660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 64
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b9fbb25a9ea5910800000000000000
+      internalID: 1827029494465010470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a75947e8ef049150800000000000000
+      internalID: 5878340906612512680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 57
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f298581e4302cb40800000000000000
+      internalID: 5458929332277252849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 47
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979ac805fda688e0800000000000000
+      internalID: -1691473342104954978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699dc71db3dea0ea0800000000000000
+      internalID: -5905647120169510506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd01f474f3b1d700800000000000000
+      internalID: 563429290913369585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2136fac78ca157ce0800000000000000
+      internalID: -1408189860095761646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 27
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a2eab9323006650800000000000000
+      internalID: 6223978136496646791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 32
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4b1b3b96d35bf0800000000000000
+      internalID: -336689584922736076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 30
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0687d1d177ea5850800000000000000
+      internalID: 6366655499279500810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcec690b12212cd0800000000000000
+      internalID: -2584747211616359235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 10
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d28cdb52b104b390800000000000000
+      internalID: -7803610388769242416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c68a9586cd3390800000000000000
+      internalID: -7836889499429322055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4204f527ec5a160800000000000000
+      internalID: 7036256983455900899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_131
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01416167d81808d0800000000000000
+      internalID: -2880024648372633329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_132
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb559627a14102b0800000000000000
+      internalID: -5620138673819001910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_133
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 6
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4ffc38988b9190800000000000000
+      internalID: -7954614129380077637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_134
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ab43f6f2f52630800000000000000
+      internalID: 3901791794644100117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_135
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14024da63b21b6720800000000000000
+      internalID: 2840384551787962433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_136
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82faf13a7800ffd70800000000000000
+      internalID: 9078975956359556904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_137
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2812e9fafd644ba60800000000000000
+      internalID: 7688848390366306690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_138
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed9cddf72a5a5040800000000000000
+      internalID: 4637117894140665318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_139
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f7b5a2fdee66a40800000000000000
+      internalID: 5361235048686911289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_140
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 15
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b546ce02a591900800000000000000
+      internalID: 655654318210571139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_141
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 9
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de863dfa68776f20800000000000000
+      internalID: 3415831243293888211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_142
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f0e189f21cfdb90800000000000000
+      internalID: -7214835667864514686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_143
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a197ac46d9f1f350800000000000000
+      internalID: 6048890473339654567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_144
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f74ee6d0450210800000000000000
+      internalID: 1298515359431127490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_145
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ae32adb810006e0800000000000000
+      internalID: -1873495744814257526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_146
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 8
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39f6d200604f7a0800000000000000
+      internalID: -6344439377226132496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_147
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 6
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa7db85fd8ad3780800000000000000
+      internalID: -8701613227789944160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_148
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aaa7e71030e0680800000000000000
+      internalID: -8787082518001440138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeadEmpire2DAssets_1 (1)_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc3b42fd3fa0820800000000000000
+      internalID: 2885386651003243390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
