@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/STAGE LEVEL/MAIN.unity
-    guid: fe6ee41dd2d2ea444a8e31d22df00e56
+    path: Assets/STAGE LEVEL/SCENE1.unity
+    guid: 2ada4613b994f1645a7286bf8a46ef28
   - enabled: 1
     path: Assets/STAGE LEVEL/STAGE1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
@@ -15,12 +15,9 @@ EditorBuildSettings:
     path: Assets/STAGE LEVEL/STAGE2.unity
     guid: 8620b37454e797a458136e7335bb3969
   - enabled: 1
-    path: Assets/STAGE LEVEL/MAINBOSS.unity
-    guid: 24bfb40b57a662f43b35241730d6068d
-  - enabled: 1
     path: Assets/STAGE LEVEL/STAGE3.unity
     guid: 6d45c66c777db3b42be3fb6ffcce2728
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/STAGE LEVEL/MAINBOSS.unity
+    guid: 24bfb40b57a662f43b35241730d6068d
   m_configObjects: {}
