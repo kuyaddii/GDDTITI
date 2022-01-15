@@ -13,7 +13,7 @@ public class MBullet : MonoBehaviour
 	// Use this for initialization
 	void Start()
 	{
-		rb.velocity = transform.left * speed;
+		rb.velocity = transform.right * speed;
 	}
 
 	void OnTriggerEnter2D(Collider2D hitInfo)
