@@ -16,7 +16,7 @@ public class Enemy : MonoBehaviour
 	}
 
 	public GameObject deathEffect;
-	public GameObject RageEffect;
+
 
 
 	public void TakeDamage(int damage)
@@ -27,16 +27,18 @@ public class Enemy : MonoBehaviour
 			animator.SetTrigger("MATTCK");
 
 		}
+		if (health <= 550)
+		{
+			animator.SetTrigger("DATTCK");
 
-		if (health <= 300)
+		}
+
+		if (health <= 500)
 		{
 			animator.SetTrigger("Attack");
 			
 		}
-		if (health <= 200)
-		{
-			Rage();
-		}
+	
 		//if (health <= 25)
 		///{
 		//	animator.SetTrigger("rage"); ;
@@ -53,10 +55,6 @@ public class Enemy : MonoBehaviour
 		Instantiate(deathEffect, transform.position, Quaternion.identity);
 		Destroy(gameObject);
 	}
-	void Rage()
-	{
-		Instantiate(RageEffect, transform.position, Quaternion.identity);
-		Destroy(gameObject);
-	}
+	
 
 }
