@@ -29986,16 +29986,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1697507777}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a8ba38e9269d3594fb61b5e1b51f2c04, type: 3}
+  m_Script: {fileID: 11500000, guid: babf7020bb3f62e43a53ceecff96dcbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 816012491}
-  offset: {x: 0, y: 0, z: 0}
-  smoothFactor: 0
-  minValues: {x: 0, y: 0, z: 0}
-  maxValue: {x: 0, y: 0, z: 0}
-  setupComplete: 0
-  ss: 1
+  smoothing: 8
 --- !u!81 &1697507779
 AudioListener:
   m_ObjectHideFlags: 0
@@ -30029,7 +30024,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 49.298847
+  field of view: 11.343905
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -30055,7 +30050,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1697507777}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 402, y: -27, z: -338.93762}
+  m_LocalPosition: {x: 1, y: 4, z: -338.93762}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
