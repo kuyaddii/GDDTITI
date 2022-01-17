@@ -9,7 +9,7 @@ public class controller: MonoBehaviour
 
 	public Rigidbody2D _rigidbody;
 
-	private float JumpForce = 15;
+	private float JumpForce = 17;
 	private Animator anim;
 	private bool facingright = true;
 

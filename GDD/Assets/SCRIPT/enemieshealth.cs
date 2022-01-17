@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class enemyHealth : MonoBehaviour
+public class enemieshealth : MonoBehaviour
 {
 
 	public float enemyMaxHealth;
@@ -21,7 +21,7 @@ public class enemyHealth : MonoBehaviour
 
 	}
 
-	public void addDamage(float damage)
+	public void TakeDamage(int damage)
 	{
 		currentHealth -= damage;
 		if (currentHealth <= 0)
@@ -31,6 +31,7 @@ public class enemyHealth : MonoBehaviour
 	}
 	void makeDead()
 	{
+		//ScoreScript.curscore += 1;
 		Destroy(gameObject);
 	}
 
