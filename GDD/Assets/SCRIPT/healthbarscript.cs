@@ -19,5 +19,13 @@ public class healthbarscript : MonoBehaviour
     void Update()
     {
         healthBar.fillAmount = health / maxHealth;
+        if (health <= 0)
+        {
+            makeDead();
+        }
+    }
+    void makeDead()
+    {
+        Destroy(gameObject);
     }
 }
