@@ -30,7 +30,7 @@ public class Loading : MonoBehaviour
             {
                 loadvalue++;
                 loading.value = loadvalue;
-               progresstext.text = loadvalue.ToString("F0") + "%";
+                progresstext.text = loadvalue.ToString("F0") + "%";
 
                 if (loadvalue == 100f)
                 {
