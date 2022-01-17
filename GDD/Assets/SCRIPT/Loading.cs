@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Loading : MonoBehaviour
 {
@@ -11,14 +12,11 @@ public class Loading : MonoBehaviour
     float maxtime = 100f;
     float loadvalue = 0f;
     
-    
 
     void Start()
     {
-      
         loading.maxValue = maxtime;
-        StartCoroutine("load");
-        
+        StartCoroutine("load");   
     }
 
     IEnumerator load()
@@ -35,7 +33,21 @@ public class Loading : MonoBehaviour
                 if (loadvalue == 100f)
                 {
                     StopCoroutine("load");
- //                   SceneManager.LoadScene("startMenu");
+                   
+                    if(SceneManager.GetActiveScene().buildIndex == 0) {
+                        PlayerPrefs.SetInt("clear_level", 0);
+                        SceneManager.LoadScene("SCENE1");
+                    } else if(SceneManager.GetActiveScene().buildIndex == 2) {
+                        if(PlayerPrefs.GetInt("clear_level") == 0) {
+                            SceneManager.LoadScene("STAGE1");
+                        } else if(PlayerPrefs.GetInt("clear_level") != 0 && (PlayerPrefs.GetInt("clear_level") == 1)) {
+                            SceneManager.LoadScene("STAGE2");
+                        } else if(PlayerPrefs.GetInt("clear_level") != 0 && (PlayerPrefs.GetInt("clear_level") == 2)) {
+                            SceneManager.LoadScene("STAGE3");
+                        } else if(PlayerPrefs.GetInt("clear_level") != 0 && (PlayerPrefs.GetInt("clear_level") == 3)) {
+                            SceneManager.LoadScene("MAINBOSS");
+                        } 
+                    } 
                 }
             }
         }

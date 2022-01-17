@@ -11799,7 +11799,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e995ab3723f05c14abe570460363f114, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newlevel: STAGE3
+  newlevel: StageLoader
+  clearlevel: 2
 --- !u!1001 &608441597
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -42820,7 +42820,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8520331036284415049, guid: 9054b2bd4c92dae489fba3fd42d41398, type: 3}
       propertyPath: newlevel
-      value: STAGE2
+      value: StageLoader
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520331036284415049, guid: 9054b2bd4c92dae489fba3fd42d41398, type: 3}
+      propertyPath: clearlevel
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520331036284415049, guid: 9054b2bd4c92dae489fba3fd42d41398, type: 3}
+      propertyPath: currentlevel
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8520331036284415050, guid: 9054b2bd4c92dae489fba3fd42d41398, type: 3}
       propertyPath: m_Name

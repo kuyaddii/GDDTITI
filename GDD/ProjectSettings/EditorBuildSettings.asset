@@ -6,8 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/STAGE LEVEL/LOADING SCREEN.unity
+    guid: 862a36e6a85f6f441ab0957ccefeb0ef
+  - enabled: 1
     path: Assets/STAGE LEVEL/SCENE1.unity
     guid: 2ada4613b994f1645a7286bf8a46ef28
+  - enabled: 1
+    path: Assets/STAGE LEVEL/StageLoader.unity
+    guid: 0ff5be3fae1a39e4c8ba2441e3fb3bba
   - enabled: 1
     path: Assets/STAGE LEVEL/STAGE1.unity
     guid: 2cda990e2423bbf4892e6590ba056729

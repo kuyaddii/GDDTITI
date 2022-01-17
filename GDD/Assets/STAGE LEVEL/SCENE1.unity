@@ -836,7 +836,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16.42503, y: -97.37}
+  m_AnchoredPosition: {x: 16.425, y: -100}
   m_SizeDelta: {x: 161.15, y: 48.052}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1454283599
@@ -1139,7 +1139,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12382e77ea5e87d439848c3e47d61af8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: STAGE1
+  sceneName: StageLoader
 --- !u!1 &1708335844
 GameObject:
   m_ObjectHideFlags: 0
@@ -1397,7 +1397,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: OPTIONS
+  m_text: ABOUT
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2b7df908d1ab70f4d8c99dc65b00540c, type: 2}
   m_sharedMaterial: {fileID: -1665112444684746762, guid: 2b7df908d1ab70f4d8c99dc65b00540c, type: 2}

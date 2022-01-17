@@ -6917,7 +6917,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e995ab3723f05c14abe570460363f114, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newlevel: MAINBOSS
+  newlevel: StageLoader
+  clearlevel: 3
 --- !u!58 &551959092
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -12546,7 +12547,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 484127750302292599, guid: f68f0a941f68e3d43a2f0e4f49afc3bc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7
+      value: 27.4
       objectReference: {fileID: 0}
     - target: {fileID: 484127750302292599, guid: f68f0a941f68e3d43a2f0e4f49afc3bc, type: 3}
       propertyPath: m_LocalPosition.y
