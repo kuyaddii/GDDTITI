@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class Quit : MonoBehaviour
 {
-   public void QuitGame()
+    void doExitGame()
        {
            Application.Quit();
-           Debug.Log("Quit!");
+         
        }
    
 }
+
