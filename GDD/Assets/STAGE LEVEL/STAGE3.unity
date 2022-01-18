@@ -9191,6 +9191,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1570628116, guid: aabeae85f1e77a445b72318accb363cd, type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 7779168439785388404, guid: 76304c410a05bca499b3677bd65dee0a, type: 3}
     - target: {fileID: 2270497617000425345, guid: aabeae85f1e77a445b72318accb363cd, type: 3}
       propertyPath: m_Name
       value: magemc
