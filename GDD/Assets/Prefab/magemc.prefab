@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2270497616726195293}
-  - component: {fileID: 1774138254}
   m_Layer: 0
   m_Name: bone_15
   m_TagString: Untagged
@@ -32,32 +31,6 @@ Transform:
   m_Father: {fileID: 2270497618208704443}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 109.398}
---- !u!61 &1774138254
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2270497616726195292}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.61148536, y: -0.0051846467}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.294635, y: 0.1129571}
-  m_EdgeRadius: 0
 --- !u!1 &2270497616908509972
 GameObject:
   m_ObjectHideFlags: 0
@@ -194,8 +167,8 @@ MonoBehaviour:
   - {fileID: 2270497617892628510}
   - {fileID: 2270497617311052941}
   m_Bounds:
-    m_Center: {x: 0.13198048, y: 0.13910472, z: 0.009097112}
-    m_Extent: {x: 1.0198334, y: 0.78182757, z: 0.00090287765}
+    m_Center: {x: 0.03918934, y: 0.10934061, z: 0.009097112}
+    m_Extent: {x: 1.0005424, y: 0.72957337, z: 0.00090287765}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
 --- !u!1 &2270497616996461363
@@ -426,7 +399,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FirePoint: {fileID: 2270497617699227420}
-  bulletPrefab: {fileID: 5289167806294780341, guid: ccbab31dc91817646b4fabf4d9f7862c, type: 3}
+  bulletPrefab: {fileID: 7779168439785388404, guid: 76304c410a05bca499b3677bd65dee0a, type: 3}
 --- !u!114 &1570628117
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -715,8 +688,8 @@ MonoBehaviour:
   - {fileID: 2270497617660823576}
   - {fileID: 2270497617090047284}
   m_Bounds:
-    m_Center: {x: 0.15266237, y: 0.13335186, z: 0.014999986}
-    m_Extent: {x: 0.23105258, y: 0.38373977, z: 0.0049999957}
+    m_Center: {x: 0.10200685, y: 0.029598147, z: 0.014999986}
+    m_Extent: {x: 0.2199547, y: 0.41113287, z: 0.0049999957}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
 --- !u!1 &2270497617311052940
@@ -849,8 +822,8 @@ MonoBehaviour:
   - {fileID: 2270497618208704443}
   - {fileID: 2270497617078406274}
   m_Bounds:
-    m_Center: {x: 0.046956718, y: 0.1944871, z: 0}
-    m_Extent: {x: 0.3946221, y: 0.24448162, z: 0}
+    m_Center: {x: 0.09008968, y: 0.20173319, z: 0}
+    m_Extent: {x: 0.41965628, y: 0.21468121, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
 --- !u!1 &2270497617356046567
@@ -1011,8 +984,8 @@ MonoBehaviour:
   - {fileID: 2270497616726195293}
   - {fileID: 2270497618384748866}
   m_Bounds:
-    m_Center: {x: -0.95284855, y: 0.5687575, z: 0}
-    m_Extent: {x: 0.32101882, y: 0.93427473, z: 0}
+    m_Center: {x: -0.13347596, y: 0.017438322, z: 0}
+    m_Extent: {x: 0.56108785, y: 0.36462998, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
 --- !u!1 &2270497617456239037
@@ -1323,7 +1296,7 @@ MonoBehaviour:
   m_BoneTransforms:
   - {fileID: 2270497616996461364}
   m_Bounds:
-    m_Center: {x: 0.116286516, y: 0.14625788, z: 0}
+    m_Center: {x: 0.11628699, y: 0.14625788, z: 0}
     m_Extent: {x: 0.650676, y: 1.0694711, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
@@ -1489,8 +1462,8 @@ MonoBehaviour:
   - {fileID: 2270497617456239038}
   - {fileID: 2270497617356046568}
   m_Bounds:
-    m_Center: {x: -0.112993926, y: 0.22752744, z: -0.01999998}
-    m_Extent: {x: 0.39689967, y: 0.45001924, z: 9.313226e-10}
+    m_Center: {x: -0.024713755, y: 0.08695817, z: -0.01999998}
+    m_Extent: {x: 0.22877601, y: 0.5672775, z: 9.313226e-10}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
 --- !u!1 &2270497618208704442
@@ -1560,7 +1533,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2270497618384748866}
-  - component: {fileID: 2008337692}
   m_Layer: 0
   m_Name: bone_16
   m_TagString: Untagged
@@ -1582,32 +1554,6 @@ Transform:
   m_Father: {fileID: 2270497616726195293}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &2008337692
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2270497618384748865}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.24110639, y: -0.021103956}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.5177872, y: 0.3859514}
-  m_EdgeRadius: 0
 --- !u!1 &2270497618395856988
 GameObject:
   m_ObjectHideFlags: 0
@@ -1708,7 +1654,7 @@ MonoBehaviour:
   - {fileID: 2270497617143448527}
   - {fileID: 2270497617844902898}
   m_Bounds:
-    m_Center: {x: 0.109992296, y: 0.26057613, z: -0.00999999}
-    m_Extent: {x: 0.33825782, y: 0.50939393, z: 0}
+    m_Center: {x: -0.0004748255, y: 0.09155741, z: -0.00999999}
+    m_Extent: {x: 0.23117344, y: 0.48155683, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
