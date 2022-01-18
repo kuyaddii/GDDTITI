@@ -10,7 +10,7 @@ public class trap : MonoBehaviour
 	{
 		if (col.tag == "Player")
 		{
-			//healthbarscript.health -= attack1Damage;
+			healthbarscript.health -= attack1Damage;
 			
 		}
 	}
