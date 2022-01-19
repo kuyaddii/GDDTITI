@@ -23,29 +23,27 @@ public class Enemy : MonoBehaviour
 	{
 		health -= damage;
 
-		if (health <= 550)
-		{
-			animator.SetTrigger("mini");
-
-		}  
-
-		if (health <= 550)
-		{
-			animator.SetTrigger("MATTCK");
-
-		}
-		if (health <= 550)
-		{
-			animator.SetTrigger("DATTCK");
-
-		}
-
 		if (health <= 500)
 		{
 			animator.SetTrigger("Attack");
 			
 		}
-	
+		if (health <= 500)
+		{
+			animator.SetTrigger("DATTCK");
+
+		}
+		if (health <= 500)
+		{
+			animator.SetTrigger("mini");
+
+		}
+		if (health <= 500)
+		{
+			animator.SetTrigger("MATTCK");
+
+		}
+
 		//if (health <= 25)
 		///{
 		//	animator.SetTrigger("rage"); ;

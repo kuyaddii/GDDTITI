@@ -8,7 +8,7 @@ public class StageLoader : MonoBehaviour
 {
     
     public Sprite[] bgSource;
-    public string[] tips = {"Hello", "Hi", "Hey", "GHi"};
+    public string[] tips = { "Zuma is the two-headed snake and he uses them to defeat his enemies ", "Bakunawa is a serpent-like dragon in Philippine mythology.", "Mayon volcano is the most active volcano in the Philippines.", "TIP:Don't ignore your enemies or you will regret it." };
     public Image bgImage;
     public Slider loading;
     public Text tipTxt;

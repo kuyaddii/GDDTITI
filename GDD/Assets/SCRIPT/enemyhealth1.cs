@@ -7,24 +7,25 @@ public class enemyhealth1 : MonoBehaviour
 
 	public float enemyMaxHealth;
 	public float currentHealth;
+	public Animator animator;
 
 	// Use this for initialization
 	void Start()
 	{
 		currentHealth = enemyMaxHealth;
+		animator = GetComponent<Animator>();
+
 
 	}
-
-	// Update is called once per frame
-	void Update()
-	{
-
-	}
-
+	public GameObject deathEffect;
 	public void TakeDamage(int damage)
 	{
 		currentHealth -= damage;
+		if (currentHealth <= 700)
+		{
+			animator.SetTrigger("DATTCK");
 
+		}
 		if (currentHealth <= 0)
 		{
 			makeDead();
@@ -32,7 +33,7 @@ public class enemyhealth1 : MonoBehaviour
 	}
 	void makeDead()
 	{
-		//ScoreScript.curscore += 1;
+		Instantiate(deathEffect, transform.position, Quaternion.identity);
 		Destroy(gameObject);
 	}
 

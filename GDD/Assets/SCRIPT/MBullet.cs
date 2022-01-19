@@ -18,8 +18,25 @@ public class MBullet : MonoBehaviour
 
 	void OnTriggerEnter2D(Collider2D hitInfo)
 	{
+		BossHelathbar.health -= damage;
+
 		Enemy enemy = hitInfo.GetComponent<Enemy>();
 		if (enemy != null)
+		{
+			enemy.TakeDamage(damage);
+		}
+		Dboss dboss = hitInfo.GetComponent<Dboss>();
+		if (dboss != null)
+		{
+			enemy.TakeDamage(damage);
+		}
+		MainBossScript mainboss = hitInfo.GetComponent<MainBossScript>();
+		if (mainboss != null)
+		{
+			enemy.TakeDamage(damage);
+		}
+		MiniBossScript miniboss = hitInfo.GetComponent<MiniBossScript>();
+		if (miniboss != null)
 		{
 			enemy.TakeDamage(damage);
 		}

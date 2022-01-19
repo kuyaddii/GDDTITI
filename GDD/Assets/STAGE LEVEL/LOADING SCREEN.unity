@@ -547,7 +547,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   progresstext: {fileID: 1011538354}
   loading: {fileID: 1861784723}
-  sceneName: SCENE1
 --- !u!4 &1083702622
 Transform:
   m_ObjectHideFlags: 0
