@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/STAGE LEVEL/MAINBOSS.unity
     guid: 24bfb40b57a662f43b35241730d6068d
+  - enabled: 1
+    path: Assets/STAGE LEVEL/GAME OVER.unity
+    guid: 57795df095f422c40a51f113bb5de031
   m_configObjects: {}

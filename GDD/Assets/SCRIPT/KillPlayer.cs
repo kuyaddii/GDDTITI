@@ -17,7 +17,6 @@ public class KillPlayer : MonoBehaviour
 		if (healthbarscript.health == 0)
 		{
 			col.transform.position = spawnPoint.position;
-			
 		}
 	}
 }

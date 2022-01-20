@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class healthbarscript : MonoBehaviour
 {
@@ -26,7 +27,9 @@ public class healthbarscript : MonoBehaviour
         if (health <= 0)
         {
             MAKEDEAD();
+            SceneManager.LoadScene("GAME OVER");
         }
+        
     }
     void MAKEDEAD()
     {
