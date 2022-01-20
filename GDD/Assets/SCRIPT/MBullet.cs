@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MBullet : MonoBehaviour
 {
-
+	Image zhealthbbar;
+	Image bhealthbar;
 	public float speed = 40f;
 	public int damage = 40;
 	public Rigidbody2D rb;
@@ -18,29 +20,14 @@ public class MBullet : MonoBehaviour
 
 	void OnTriggerEnter2D(Collider2D hitInfo)
 	{
-		BossHelathbar.health -= damage;
-
-		Enemy enemy = hitInfo.GetComponent<Enemy>();
-		if (enemy != null)
+		if (hitInfo.tag == "Enemy")
 		{
-			enemy.TakeDamage(damage);
+			ZUMA.Zhealth -= damage;
 		}
-		Dboss dboss = hitInfo.GetComponent<Dboss>();
-		if (dboss != null)
+		if (hitInfo.tag == "Enemy")
 		{
-			enemy.TakeDamage(damage);
+			BAkunawa.Bhealth -= damage;
 		}
-		MainBossScript mainboss = hitInfo.GetComponent<MainBossScript>();
-		if (mainboss != null)
-		{
-			enemy.TakeDamage(damage);
-		}
-		MiniBossScript miniboss = hitInfo.GetComponent<MiniBossScript>();
-		if (miniboss != null)
-		{
-			enemy.TakeDamage(damage);
-		}
-
 		Instantiate(impactEffect, transform.position, transform.rotation);
 
 		Destroy(gameObject);

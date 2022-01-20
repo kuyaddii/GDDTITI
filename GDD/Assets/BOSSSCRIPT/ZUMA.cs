@@ -5,27 +5,44 @@ using UnityEngine.UI;
 
 public class ZUMA : MonoBehaviour
 {
-    Image healthc;
-    float maxHealth = 100f;
-    public static float health;
+    Image zhealthbar;
+    float maxHealth = 500f;
+    public static float Zhealth;
+    public Animator animator;
+    public GameObject killed;
     // Start is called before the first frame update
     void Start()
     {
-        healthc = GetComponent<Image>();
-        health = maxHealth;
+        zhealthbar = GetComponent<Image>();
+        Zhealth = maxHealth;
+        animator = GetComponent<Animator>();
+    }
+    public GameObject deathEffect;
+    public void TakeDamage(int damage)
+    {
+        Zhealth -= damage;
+
+        if (Zhealth <= 500)
+        {
+            animator.SetTrigger("Attack");
+
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        healthc.fillAmount = health / maxHealth;
-        if (health <= 0)
+
+        zhealthbar.fillAmount = Zhealth / maxHealth;
+        if (zhealthbar.fillAmount == 0)
         {
-            makeDead();
+            DEAD();
         }
     }
-    void makeDead()
+    void DEAD()
     {
-        Destroy(gameObject);
+        Destroy(killed);
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
     }
+
 }

@@ -5,53 +5,44 @@ using UnityEngine.UI;
 
 public class BAkunawa : MonoBehaviour
 {
-
-    public int health;
-    public int damage;
-    private float timeBtwDamage = 1.5f;
-
-
-    public Animator camAnim;
-    public Slider healthBar;
-    private Animator anim;
-    public bool isDead;
-
-    private void Start()
+    Image bhealthbar;
+    float maxHealth = 700f;
+    public static float Bhealth;
+    public Animator animator;
+    public GameObject bkilled;
+    // Start is called before the first frame update
+    void Start()
     {
-        anim = GetComponent<Animator>();
+        bhealthbar = GetComponent<Image>();
+        Bhealth = maxHealth;
+        animator = GetComponent<Animator>();
     }
-
-    private void Update()
+    public GameObject deathEffect;
+    public void TakeDamage(int damage)
     {
+        Bhealth -= damage;
 
-        if (health <= 700)
+        if (Bhealth <= 500)
         {
-            anim.SetTrigger("DATTCK");
+            animator.SetTrigger("DATTCK");
+
         }
-
-       // if (health <= 0)
-     //  {
-       //     anim.SetTrigger("death");
-      //  }
-
-        // give the player some time to recover before taking more damage !
-        if (timeBtwDamage > 0)
-        {
-            timeBtwDamage -= Time.deltaTime;
-        }
-
-        healthBar.value = health;
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    // Update is called once per frame
+    void Update()
     {
-        // deal the player damage ! 
-       // if (other.CompareTag("Player") && isDead == false)
-     //   {
-      //      if (timeBtwDamage <= 0)
-      //      {
-     //           camAnim.SetTrigger("shake");
-      //          other.GetComponent<Player>().health -= damage;
-     //       }
+
+        bhealthbar.fillAmount = Bhealth / maxHealth;
+        if (bhealthbar.fillAmount == 0)
+        {
+            DEAD();
         }
     }
+    void DEAD()
+    {
+        Destroy(bkilled);
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
+    }
+
+}
