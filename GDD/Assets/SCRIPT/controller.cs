@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class controller: MonoBehaviour
 {
-	
+
 	private float MovementSpeed = 18;
 
 	public Rigidbody2D _rigidbody;
@@ -72,4 +73,11 @@ public class controller: MonoBehaviour
 		//	transform.localScale = theScale;
 		transform.Rotate(0f, 180f, 0f);
 	}
+	void OnTriggerEnter2D(Collider2D col)
+    {
+		if (col.CompareTag("Enemy"))
+		{
+			anim.SetTrigger("hit");
+        }
+    }
 }

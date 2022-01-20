@@ -18,8 +18,6 @@ public class BossHelathbar : MonoBehaviour
 
     // Update is called once per frame
     public void TakeDamage(int damage) { 
-
-        BossHelathbar.health -= damage;
     
         healthBar.fillAmount = health / maxHealth;
     }
