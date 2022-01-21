@@ -37,12 +37,14 @@ public class main : MonoBehaviour
         if (mainan.fillAmount == 0)
         {
             DEAD();
+            
         }
     }
     void DEAD()
     {
         Destroy(kdeie);
         Instantiate(deathEffect, transform.position, Quaternion.identity);
+        
     }
-
+   
 }

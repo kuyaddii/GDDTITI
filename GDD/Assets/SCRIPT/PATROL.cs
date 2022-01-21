@@ -4,94 +4,38 @@ using UnityEngine;
 
 public class PATROL : MonoBehaviour
 {
-	public float speed; //define speed of enemy
-	public float distance;  //define the distance detection of ground using raycast
-	private bool moveRight = true; //define default direction of enemy
-	public Transform groundDetection; //Defining the transform component of an object
-	public Animator anim; //initialize animation component
 
-	public int State = 1; //define the current state state 1= Patrol State 2 = attack
+	public float speed;
+	public bool MoveRight;
 
-	void Start()
-	{
-		anim = GetComponent<Animator>();
-	}
-
-	// Update is called once per frame
+	// Use this for initialization
 	void Update()
 	{
-		if (State == 1)
+		// Use this for initialization
+		if (MoveRight)
 		{
-			transform.Translate(Vector2.right * speed * Time.deltaTime);
-			RaycastHit2D groundinfo = Physics2D.Raycast(groundDetection.position, Vector2.down, distance);
-
-			if (groundinfo.collider == false)
-			{ // detect if raycast is colliding with ground
-				if (moveRight == true)
-				{
-					transform.eulerAngles = new Vector3(0, -180, 0); // change direction to left
-					moveRight = false;
-				}
-				else
-				{
-					transform.eulerAngles = new Vector3(0, 0, 0); // change direction to right
-					moveRight = true;
-				}
-			}
+			transform.Translate(2 * Time.deltaTime * speed, 0, 0);
+			transform.localScale = new Vector2(1, 1);
 		}
-		if (State == 2)
+		else
 		{
-			// Instruction when attacking
+			transform.Translate(-2 * Time.deltaTime * speed, 0, 0);
+			transform.localScale = new Vector2(-1, 1);
 		}
 	}
-
-	private void OnTriggerEnter2D(Collider2D col)
+	void OnTriggerEnter2D(Collider2D trig)
 	{
-		if (col.tag == "wall")
+		if (trig.gameObject.CompareTag("Ground"))
 		{
-			if (moveRight == true)
+
+			if (MoveRight)
 			{
-				transform.eulerAngles = new Vector3(0, -180, 0);
-				moveRight = false;
+				MoveRight = false;
 			}
 			else
 			{
-				transform.eulerAngles = new Vector3(0, 0, 0);
-				moveRight = true;
+				MoveRight = true;
 			}
 		}
-		if (col.tag == "enemy")
-		{
-			if (moveRight == true)
-			{
-				transform.eulerAngles = new Vector3(0, -180, 0);
-				moveRight = false;
-			}
-			else
-			{
-				transform.eulerAngles = new Vector3(0, 0, 0);
-				moveRight = true;
-			}
-		}
-		if (col.tag == "Player")
-		{
-			State = 2;
-			anim.SetInteger("State", 2);
-
-		}
-
 	}
-	private void OnTriggerExit2D(Collider2D col)
-	{
-		if (col.tag == "Player")
-		{
-			State = 1;
-			anim.SetInteger("State", 1);
-
-		}
-
-	}
-
-
-
 }
