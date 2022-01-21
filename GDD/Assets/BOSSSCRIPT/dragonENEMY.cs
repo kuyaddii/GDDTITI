@@ -15,6 +15,8 @@ public class dragonENEMY : MonoBehaviour
 	}
 
 	public GameObject deathEffect;
+	public GameObject SHoot;
+	public Transform FirePoint;
 
 
 
@@ -58,6 +60,7 @@ public class dragonENEMY : MonoBehaviour
 		if (col.CompareTag("FIRE"))
 		{
 			animator.SetTrigger("mini");
+			SHOOT();
 		}
 
 
@@ -66,5 +69,10 @@ public class dragonENEMY : MonoBehaviour
 	{
 		Instantiate(deathEffect, transform.position, Quaternion.identity);
 		Destroy(gameObject);
+	}
+	void SHOOT()
+	{
+		Instantiate(SHoot, FirePoint.position, FirePoint.rotation);
+
 	}
 }

@@ -15,6 +15,8 @@ public class BAKUNAWAENEMY : MonoBehaviour
 	}
 
 	public GameObject deathEffect;
+	public GameObject SHoot;
+	public Transform FirePoint;
 
 
 
@@ -37,6 +39,7 @@ public class BAKUNAWAENEMY : MonoBehaviour
 		if (col.CompareTag("FIRE"))
 		{
 			animator.SetTrigger("DATTCK");
+			SHOOT();
 		}
 
 
@@ -46,5 +49,10 @@ public class BAKUNAWAENEMY : MonoBehaviour
 	{
 		Instantiate(deathEffect, transform.position, Quaternion.identity);
 		Destroy(gameObject);
+	}
+	void SHOOT()
+	{
+		Instantiate(SHoot, FirePoint.position, FirePoint.rotation);
+	
 	}
 }
