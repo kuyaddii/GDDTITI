@@ -28,6 +28,14 @@ public class MBullet : MonoBehaviour
 		{
 			BAkunawa.Bhealth -= damage;
 		}
+		if (hitInfo.tag == "Enemy")
+		{
+			dragon.Dhealth -= damage;
+		}
+		if (hitInfo.tag == "Enemy")
+		{
+			main.Mhealth -= damage;
+		}
 		Instantiate(impactEffect, transform.position, transform.rotation);
 
 		Destroy(gameObject);

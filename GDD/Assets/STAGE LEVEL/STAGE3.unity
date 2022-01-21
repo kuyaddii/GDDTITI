@@ -12838,7 +12838,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 484127750302292594, guid: f68f0a941f68e3d43a2f0e4f49afc3bc, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 484127750302292596, guid: f68f0a941f68e3d43a2f0e4f49afc3bc, type: 3}
       propertyPath: m_FlipX
@@ -13112,7 +13112,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 484127750302292592, guid: f68f0a941f68e3d43a2f0e4f49afc3bc, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: f68f0a941f68e3d43a2f0e4f49afc3bc, type: 3}
 --- !u!4 &934449924 stripped
 Transform:
@@ -17591,12 +17592,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1254618891}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f781812dad477a4c9f7dfdfa321dd0a, type: 3}
+  m_Script: {fileID: 11500000, guid: 277cdecd376391c4193b41f199053694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 500
+  health: 900
   animator: {fileID: 0}
   deathEffect: {fileID: 1504269689846583563, guid: 7cfcc3e89b24b99488c15c2fb0ba146e, type: 3}
+--- !u!95 &1254618895 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 484127750302292593, guid: f68f0a941f68e3d43a2f0e4f49afc3bc, type: 3}
+  m_PrefabInstance: {fileID: 934449923}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1256877036
 GameObject:
   m_ObjectHideFlags: 0
@@ -24557,7 +24563,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 30.580183, y: 39.86849}
+  m_AnchoredPosition: {x: 22.8, y: 43.6}
   m_SizeDelta: {x: 311.59998, y: 229.59998}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1726799223
@@ -25702,8 +25708,9 @@ GameObject:
   - component: {fileID: 1808020895}
   - component: {fileID: 1808020897}
   - component: {fileID: 1808020896}
+  - component: {fileID: 1808020898}
   m_Layer: 0
-  m_Name: Image
+  m_Name: ddragon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25749,10 +25756,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_Sprite: {fileID: -4037283083772154870, guid: 2137e1da68871ee4eb274dd50d0eb335, type: 3}
-  m_Type: 0
+  m_Type: 3
   m_PreserveAspect: 1
   m_FillCenter: 1
-  m_FillMethod: 4
+  m_FillMethod: 0
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
@@ -25766,6 +25773,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1808020894}
   m_CullTransparentMesh: 1
+--- !u!114 &1808020898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1808020894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3fea45adddc2b145a18980988ad42a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 1254618895}
+  kdeie: {fileID: 1254618891}
+  deathEffect: {fileID: 1504269689846583563, guid: 7cfcc3e89b24b99488c15c2fb0ba146e, type: 3}
 --- !u!1 &1815259264
 GameObject:
   m_ObjectHideFlags: 0

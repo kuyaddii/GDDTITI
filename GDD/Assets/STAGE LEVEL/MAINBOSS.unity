@@ -10795,10 +10795,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 553289261}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f781812dad477a4c9f7dfdfa321dd0a, type: 3}
+  m_Script: {fileID: 11500000, guid: 959ed45fc58b06f40b0a6067c6214c24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 500
+  health: 1500
   animator: {fileID: 0}
   deathEffect: {fileID: 7098405297589965520, guid: fd1508c69339c204a86e2ea51cfadb28, type: 3}
 --- !u!61 &553289264
@@ -12817,6 +12817,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attack1Damage: 50
+  spawnPoint: {fileID: 0}
 --- !u!61 &640246447
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20399,6 +20400,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attack1Damage: 50
+  spawnPoint: {fileID: 0}
 --- !u!1 &1104132180
 GameObject:
   m_ObjectHideFlags: 0
@@ -38720,8 +38722,9 @@ GameObject:
   - component: {fileID: 2074961021}
   - component: {fileID: 2074961023}
   - component: {fileID: 2074961022}
+  - component: {fileID: 2074961024}
   m_Layer: 0
-  m_Name: Image
+  m_Name: mainan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38767,10 +38770,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_Sprite: {fileID: -4037283083772154870, guid: 2137e1da68871ee4eb274dd50d0eb335, type: 3}
-  m_Type: 0
+  m_Type: 3
   m_PreserveAspect: 1
   m_FillCenter: 1
-  m_FillMethod: 4
+  m_FillMethod: 0
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
@@ -38784,6 +38787,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2074961020}
   m_CullTransparentMesh: 1
+--- !u!114 &2074961024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2074961020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c3d721d0629e1648823b3494299d863, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 553289262}
+  kdeie: {fileID: 553289261}
+  deathEffect: {fileID: 7098405297589965520, guid: fd1508c69339c204a86e2ea51cfadb28, type: 3}
 --- !u!1 &2082610197
 GameObject:
   m_ObjectHideFlags: 0
