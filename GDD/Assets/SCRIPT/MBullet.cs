@@ -36,6 +36,10 @@ public class MBullet : MonoBehaviour
 		{
 			main.Mhealth -= damage;
 		}
+		if (hitInfo.tag == "Player")
+		{
+			healthbarscript.health -= damage;
+		}
 		Instantiate(impactEffect, transform.position, transform.rotation);
 
 		Destroy(gameObject);

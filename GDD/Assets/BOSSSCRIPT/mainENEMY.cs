@@ -6,6 +6,8 @@ public class mainENEMY : MonoBehaviour
 {
 	public int health = 1500;
 	public Animator animator;
+	public GameObject SHoot;
+	public Transform FirePoint;
 
 	private void Start()
 	{
@@ -58,6 +60,7 @@ public class mainENEMY : MonoBehaviour
 		if (col.CompareTag("FIRE"))
 		{
 			animator.SetTrigger("MATTCK");
+			SHOOT();
 		}
 
 
@@ -66,5 +69,10 @@ public class mainENEMY : MonoBehaviour
 	{
 		Instantiate(deathEffect, transform.position, Quaternion.identity);
 		Destroy(gameObject);
+	}
+	void SHOOT()
+	{
+		Instantiate(SHoot, FirePoint.position, FirePoint.rotation);
+
 	}
 }

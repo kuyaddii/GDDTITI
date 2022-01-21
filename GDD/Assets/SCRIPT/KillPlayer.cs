@@ -14,10 +14,10 @@ public class KillPlayer : MonoBehaviour
 		{
 			col.transform.position = spawnPoint.position;
 		}
-		//if (healthBar.fillAmount <= 0)
-	//	{
-		//	col.transform.position = spawnPoint.position;
+		if (healthbarscript.health == 0)
+		{
+			col.transform.position = spawnPoint.position;
 			
-	//	}
+		}
 	}
 }

@@ -8,6 +8,10 @@ public class healthbarscript : MonoBehaviour
     Image healthBar;
     float maxHealth = 100f;
     public static float health;
+    public GameObject kdeie;
+    public GameObject RECALL;
+    public Transform RespawnPoint;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,11 +25,12 @@ public class healthbarscript : MonoBehaviour
         healthBar.fillAmount = health / maxHealth;
         if (health <= 0)
         {
-            makeDead();
+            MAKEDEAD();
         }
     }
-    void makeDead()
+    void MAKEDEAD()
     {
-        Destroy(gameObject);
+        Destroy(kdeie);
+     
     }
 }

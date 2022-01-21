@@ -17628,7 +17628,7 @@ MonoBehaviour:
   health: 900
   animator: {fileID: 0}
   deathEffect: {fileID: 1504269689846583563, guid: 7cfcc3e89b24b99488c15c2fb0ba146e, type: 3}
-  SHoot: {fileID: 5289167806294780341, guid: ccbab31dc91817646b4fabf4d9f7862c, type: 3}
+  SHoot: {fileID: 5932961120656069011, guid: 89d6f0d54e73ae244abbe5634089955f, type: 3}
   FirePoint: {fileID: 61216497}
 --- !u!95 &1254618895 stripped
 Animator:
